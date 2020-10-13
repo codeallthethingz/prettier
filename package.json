@@ -3,14 +3,15 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codeallthethingz/prettier.git"
+    "url": "git+https://github.com/searchspring/prettier.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/codeallthethingz/prettier/issues"
+    "url": "https://github.com/searchspring/prettier/issues"
   },
-  "homepage": "https://github.com/codeallthethingz/prettier#readme"
+  "homepage": "https://github.com/searchspring/prettier#readme"
 }
