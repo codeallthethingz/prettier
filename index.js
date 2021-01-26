@@ -1,10 +1,10 @@
 module.exports = {
-	"useTabs": true,
+	"useTabs": false,
 	"printWidth": 150,
 	"semi": true,
 	"singleQuote": true,
 	"quoteProps": "as-needed",
-	"trailingComma": "es5",
+	"trailingComma": "all",
 	"bracketSpacing": true,
 	"arrowParens": "always"
 }
